@@ -20,7 +20,7 @@ Este repositório traz dois utilitários em Go para avaliar expressões e imprim
 ```bash
 go build -o bfc bfc.go
 go build -o bfc bfc.go
-
+```
 ---
 
 ### Exemplo
